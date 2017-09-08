@@ -1,0 +1,21 @@
+h2 {
+	background-color: white;
+}
+
+#cont {
+	width: 30%;
+	height: 100%;
+	padding: 2em;
+	background-color: gray;
+}
+
+#pantalla {
+	height: 4em;
+	background-color: black;
+	color: lightgreen;
+}
+
+.btn-success {
+	height: 8em;
+	outline: solid
+}
